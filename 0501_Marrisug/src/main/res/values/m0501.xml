@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0501_t001">性別：</string>
+    <string name="m0501_s001">請選擇性別</string>
+    <string name="m0501_t002">年齡：</string>
+    <string name="hint">0</string>
+    <string-array name="m0501_a001">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <dimen name="padding">15dp</dimen>
+    <dimen name="padding_t005">50dp</dimen>
+    <dimen name="myname">100dp</dimen>
+    <string name="m0501_t003">結果：</string>
+    <string name="m0501_t004">推薦您：</string>
+
+
+    <string name="m0501_f001">還年輕不用急.</string>
+    <string name="m0501_f002">此時結婚最好.</string>
+    <string name="m0501_f003">快點找伴侶,已經遲啦.</string>
+    <string name="m0501_b001">婚姻推薦</string>
+
+
+    <string name="hint_t004">請勿空白</string>
+    <string name="chk01">男</string>
+
+</resources>

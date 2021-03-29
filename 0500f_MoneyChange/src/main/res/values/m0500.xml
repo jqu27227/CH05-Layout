@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0500_t001">美元(us):</string>
+    <string name="hint">請輸入數字</string >
+    <string name="m0500_t003">0</string>
+    <dimen name="paddind01">2dp</dimen>
+    <dimen name="sm10dp">10dp</dimen>
+    <dimen name="padding03">20dp</dimen>
+</resources>
